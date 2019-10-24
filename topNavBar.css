@@ -1,0 +1,73 @@
+/* TOP NAVIGATION */
+
+      .topNavBar {
+        overflow: auto;
+        float: left;
+      }
+
+      .home {
+        color:white;
+      }
+
+      .black {
+        color: #000000;
+      }
+
+      .float-left {
+        float: left;
+      }
+
+      .float-right {
+        float: right;
+        position: relative;
+        align: right;
+        color: rgba(44, 250, 3, 0.5);
+      }
+
+
+    /* Mobile Responsiveness for .topNavBar */
+    @media (max-width: 480px) {
+      .topNavBar {
+        display: block;
+       
+      }
+    }
+
+
+    .topNavBar a {
+      
+      text-align: center;
+      padding: 14px 16px;
+      text-decoration: none;
+      font-size: 17px;
+      /* border-right: 1px solid #000000; */
+    }
+    
+    
+
+    .border-right {
+       border-right: 1px solid #000000;  
+    }
+
+    .home:hover {
+      background-color: blue;
+
+    }
+
+    .topNavBar a:hover {
+      background-color: #ddd;
+
+    }
+
+    .topNavBar a.home {
+      background-color:lightGray;
+      
+    }
+
+    
+
+    .topNavBar .testimonial .MrJays2cent .testingDropdownMenu  {
+      background-color: #000000;
+      color: white;
+
+    }
