@@ -1,0 +1,63 @@
+					.button {
+
+						font-size: 30px;
+						border-color: black;
+						border-style: block;
+						border-width: 1px;
+						background-color: rgb(184, 114, 250);
+						padding: 25px;
+
+					}
+
+					.menuAdd {
+
+						margin-left: 50px;
+						margin-right: 50px;
+						
+						text-align: center;
+						font-size: 30px;
+						border: 50px;
+						border-width: 5px;
+						border-style: dotted;
+						border-color: purple;
+						position: relative;
+
+					}
+
+					#myList {
+						margin-left: 50px;
+						text-align: center;
+						font-size: 20px;
+						
+
+					}
+					
+
+					#informationInput {
+
+						font-size: 20px;
+						padding: 10px;
+
+					}
+
+
+					li {
+
+							font-size: 25px;
+							color: black;
+							text-align: left;
+							margin-bottom: 20px;
+
+						}
+
+					.listBox {
+						width: 500px;
+						margin: auto auto;
+						text-align: center;
+						padding-top: 25px;
+						font-size: 30px;
+						/* border-style: dotted;
+						border-color: red; */
+						
+
+					}
