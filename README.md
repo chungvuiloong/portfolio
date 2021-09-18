@@ -1,15 +1,5 @@
 # MrJay's coding portfolio
 
-Hi call me, Jere!
-
-I am looking for coding opportunities to be a coder in Finland or Europe region. It is simply because I love coding and problem solving. 
-
-Plus I am currently living in Finland.
-
-At the moment, I am studying via Xamk, Metroplia and also Laurea for any coding or IT related courses.
-
-I dabble in coding with several projects and hope to work with you coders!!
-
 ## My completed studies so far
 
 ### Xamk
@@ -48,10 +38,6 @@ I dabble in coding with several projects and hope to work with you coders!!
 - Digital Service Business and Marketing
 - Internet Business Models
 
-
-
-
-
 ## Coding projetcs
 Please check out the following, or my Github profile https://github.com/jirimicvl , for coding projects I have done before.
 
@@ -60,19 +46,19 @@ Please check out the following, or my Github profile https://github.com/jirimicv
 
 ### Javascript/ React
 
-**A cat website**<br/>
+**🐱 A cat website**<br/>
 It has functional Facebook messenger build. The form meows when send in information.
 - https://jirimicvl.github.io/catWebsiteV2/
 
-**Christmas Gift**<br/>
+**🎄🎁 Christmas Gift**<br/>
 I built this website for my girlfriend in 2018 as a Christmas Gift. It snows and has a song played in the background.
 - https://jirimicvl.github.io/christmasNiina2018/
 
-**Ëlusive button**<br/>
+**🔘 Ëlusive button**<br/>
 There is a button on this webpage. It moves to a randowm position when the mouse pinter is close to it. Try to catch if you can!!!
 - https://jirimicvl.github.io/elusiveButton/
 
-**A form**<br/>
+**📄 A form**<br/>
 It check for a proper name, age and email. It will highlight green for correct and highlight red if its wrong format.
 - https://codepen.io/Jirimicvl/pen/eQjOOo
 
