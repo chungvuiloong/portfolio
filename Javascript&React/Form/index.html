@@ -1,0 +1,226 @@
+<html>
+
+  <body>
+    <script src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js">
+    </script>
+  </body>
+  
+  <center>
+    <h1 id="title">Survey Form</h1>
+
+  
+<!--Contact form details -->
+  
+    <form id="survey-form">
+    
+        <table class="contactUsForm ">
+          <p id="description">Meow us your in-Fur-Meow-tion!!!!
+          </p>
+      
+         
+            <!--Name of Cats -->
+              <tr>
+                <div id ="name-label">
+                  
+                  <td class="td1">
+                    <label>Name :
+                    </label>
+                  </td>
+                  
+                  <td class="td2Name">
+                    <form name="myForm" 
+                          onblur="nameCheck()"
+                          method="post">
+                    </form>
+                    
+                    <input id="name"                   
+                           type="text"
+                           onblur="nameCheck()"
+                           name="name"
+                           placeholder="Your name..">                     
+                  </td>
+                </div>
+              </tr>
+      
+              <!--Email/ eMeow information of Cats-->
+              <tr>
+                <div>
+                  <td class="td1">
+                    <label>eMeow :
+                    </label>
+                 </td>
+                  
+                  <td class="td2">
+                    <input id="email" 
+                           type="text"
+                           onblur="emailVerification()" 
+                           placeholder="Your eMeow.."
+                           pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,}$">                   
+                  </td>
+               </div>
+             </tr>
+      
+          
+           <!--Cats Age-->
+            <tr>
+                <div>
+                  <td class="td1">
+                    <label id="number">Cat Age :
+                    </label>                    
+                  </td>
+                  
+                    <td class="td2">
+                      <input id="number-label" 
+                             min="1" 
+                             max="100" 
+                             type="text" 
+                             onblur="ageCheck()" 
+                             placeholder="Lets use human years for now..">
+                      
+                    </td>
+                </div>
+           </tr>
+          
+          <!--Cats Gender-->
+              <tr>
+                <div id="gender">
+                  <td class="td1">
+                    <label for="detailsNeeded">My Gender:
+                    </label>
+                  </td>
+                  
+                  <td class="td2">
+                    <input type="radio" 
+                           name="gender" 
+                           value="maleGender">Male<br>
+                    <input type="radio" 
+                           name="gender"
+                          value="femaleGender">Female<br>
+                         
+                    <input type="radio" 
+                           name="gender" 
+                           value="bothGender">Male & Female<br>
+                    <input type="radio" 
+                           name="gender" 
+                           value="dontGender">I am keeping quiet..<br>
+               
+                  </td>
+                  
+                </div>
+              </tr>
+          
+          
+          
+          
+          
+              <!--Country Selection-->
+              <tr>
+                  <td class="td1">
+                    Where do you meow from?
+                  </td>
+
+                  <td class="td2">
+                    <select id="dropdown" 
+                            name="country">
+                      <option value="meowlasia">Meowlasia
+                      </option>
+                      <option value="newMeow">New Meow
+                      </option>
+                      <option value="ausmeow">Ausmeow
+                      </option>
+                      <option value="canameow">Canameow
+                      </option>
+                      <option value="furope">Furope
+                      </option>
+                      <option value="furkey">Furkey
+                      </option>
+                      <option value="usm">USM
+                      </option>
+                   </select>
+                </td>
+              </tr>
+          
+<!--           Favourite food -->
+          <tr>
+              <div>
+                   <td class="td1">
+                     <label for="favouriteFood">Favourite food :
+                     </label>    
+                  </td>
+                
+                  <td class="td2">
+                    <input type="checkbox" 
+                           name="fav01" 
+                           value="myHuman"> My human<br>
+                    <input type="checkbox" 
+                           name="fav02" 
+                           value="mice"> Mice<br>
+                    
+                    <input type="checkbox" 
+                           name="fav03" 
+                           value="birds"> Birds<br>
+                    
+                    <input type="checkbox" 
+                           name="fav04" 
+                           value="myCatToy"> My Cat toy<br>
+                    <input type="checkbox" 
+                           name="fav05" 
+                           value="catnips" Checked> Catnips<br>
+                    
+                  </td>
+                </div>
+              </tr>
+          
+<!--           Comments -->
+               <tr>
+                <div id="comment">
+                   <td class="td1">
+                       <label for="comment">Any meows or comments?
+                      </label>
+                    </td>
+                  
+                  <td class="td2">
+                    <textarea rows="4" 
+                              cols="50" 
+                              name="comment" 
+                              form="usrform" 
+                              placeholder="Meow here...">
+
+                    </textarea>
+                  </td>
+                </div>
+              </tr>
+          
+          
+          
+<!--           Submit button -->
+          <tr>
+                <td>        
+                </td>  
+
+                <td>
+                  <div>
+                    <button id="submit" onclick= "meowUs();">Meow us Now!
+                    </button>
+                  </div>
+                </td>
+          </tr>
+          
+          
+        </table>
+    </form>
+  </center>
+  
+
+
+              
+              
+    <!-- Meow Sound -->
+
+          <audio id="meow" src="https://d1490khl9dq1ow.cloudfront.net/sfx/mp3preview/cats-meow-2_MktkaWEu.mp3">
+
+          </audio>
+
+
+
+  </html>
