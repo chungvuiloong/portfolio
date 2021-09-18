@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Click It</title>
+</head>
+<body>
+
+<h1> Click the Button! </h1>
+
+<button id="runawayButton" 
+		style="background-color: lightblue;
+				height: 100px;
+				width:200px;">
+	Catch Me If You Can!
+</button>
+
+
+<script>
+const btn = document.getElementById('runawayButton');
+var str = "website"
+
+//colour
+// function randomColor(){
+// 	const red = Math.floor(Math.random() * 255);
+// 	const green = Math.floor(Math.random() * 255);
+// 	const blue = Math.floor(Math.random() * 255);
+// 	return randomColor = 'rgb(' +red + ',' + green + ',' + blue ')';
+
+
+//button
+let clickCount = 0;
+btn.onmouseover = function () {
+	clickCount = clickCount + 1;
+
+if (clickCount < 10) {
+		btn.style.marginTop = Math.floor(Math.random() * 500) + 'px';
+		btn.style.marginLeft = Math.floor(Math.random() * 500) + 'px';
+		// btn.style.backgroundColor = randomColor();
+	}
+ else {window.open("https://jirimicvl.github.io/sliceofjay/")}
+}
+
+// let clickCount = 0;
+// btn.onmouseover = function () {
+// 	clickCount = clickCount + 1;
+
+// if (clickCount < 2) {
+// 	// btn.onclick = function(){
+// 		btn.style.marginTop = Math.floor(Math.random() * 100) + 'px';
+// 		btn.style.marginLeft = Math.floor(Math.random() * 100) + 'px';
+// 	}
+//  else {btn.innerHTML = window.open((str.link("https://www.google.com/")))}
+// }
+
+
+
+
+
+//it works!
+// 	const btn = document.getElementById('runawayButton');
+
+
+// let clickCount = 0;
+// btn.onmouseover = function () {
+// 	clickCount = clickCount + 1;
+
+// if (clickCount < 10) {
+// 	// btn.onclick = function(){
+// 		btn.style.marginTop = Math.floor(Math.random() * 500) + 'px';
+// 		btn.style.marginLeft = Math.floor(Math.random() * 500) + 'px';
+// 	}
+//  else {console.log('it works!')}
+// }
+
+
+		// let clickCount = 0;
+
+		// btn.onclick = function () {
+		// 	clickCount = clickCount + 1;
+		// 	console.log('clicked', clickCount);
+		// }
+
+
+
+		// loops works
+		// let num = 0;
+		// 		while (num < 10) {
+		// 			btn.onclick = function(){
+		// 		btn.style.marginTop = Math.floor(Math.random() * 500) + 'px';
+		// 		btn.style.marginLeft = Math.floor(Math.random() * 500) + 'px';}
+		// 		num = num +1;
+		// 		}
+
+	
+
+
+	// Working code the button moves around
+	// btn.onclick = function(){
+	// 	btn.style.marginTop = Math.floor(Math.random() * 500) + 'px';
+	// 	btn.style.marginLeft = Math.floor(Math.random() * 500) + 'px';
+
+	// }
+
+
+
+
+</script>
+
+</body>
+</html>
