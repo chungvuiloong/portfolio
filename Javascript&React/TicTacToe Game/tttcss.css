@@ -1,0 +1,58 @@
+
+.welcome {
+    font-size: 60px;
+    padding: 25px;
+
+}
+
+#message {
+    font-size: 50px;
+    padding-bottom: 25px;
+}
+
+.start-over {
+    box-sizing: content-box;    
+    width: 300px;
+    height: 50px;
+    margin: 25px;
+    font-size: 50px;
+    color: black;
+    padding: 25px;
+    border: 2px solid black;
+    border-radius: 5px;
+    background-color: lightskyblue;
+}
+
+
+.start-over:hover {
+    background-color: rgb(46, 68, 194);
+}
+
+.center {
+    margin: 0 auto;
+    text-align: center;
+
+}
+
+.tictactoe-box {
+    margin: 0 auto;
+    margin-bottom: 25px;
+    border: 2px solid blue;
+    background-color: aqua;
+}
+
+.Square {
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    font-size: 50pt;
+    font-weight: bold;
+    font-family: Verdana;
+    background-color: lightskyblue;
+    border: 2px solid black;
+}
+
+.Square:hover {
+    background-color: rgb(46, 68, 194);
+}
+
