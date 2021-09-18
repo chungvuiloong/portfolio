@@ -60,7 +60,7 @@ Please check out the following, or my Github profile https://github.com/jirimicv
 
 ### Javascript/ React
 
-**A cat website **<br/>
+**A cat website**<br/>
 It has functional Facebook messenger build. The form meows when send in information.
 - https://jirimicvl.github.io/catWebsiteV2/
 
