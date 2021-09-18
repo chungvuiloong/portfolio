@@ -72,3 +72,7 @@ It check for a proper name, age and email. It will highlight green for correct a
 **Random Word Guessing Game**<br/>
 - https://github.com/jirimicvl/Random-Word-Guessing-Game
 - https://jirimicvl.github.io/Random-Word-Guessing-Game/
+
+**🖼️ Image Gallery**<br/>
+- https://github.com/jirimicvl/ImageGallery
+- https://jirimicvl.github.io/ImageGallery/
