@@ -1,12 +1,8 @@
-# MrJay's coding portfolio
+# MrJay's/ Jere's coding portfolio
 
-
-
-## Coding projetcs
 Please check out the following, or my Github profile https://github.com/jirimicvl , for coding projects I have done before.
 
 **Please bear in mind I am still adding my previous projects.**
-
 
 ### Javascript/ React
 
