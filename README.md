@@ -65,4 +65,10 @@ There is a button on this webpage. It moves to a random position when the mouse 
 It check for a proper name, age and email. It will highlight green for correct and highlight red if its wrong format.
 - https://codepen.io/Jirimicvl/pen/eQjOOo
 
+**⭕❕⭕❕❌ TicTacToe**<br/>
+- https://github.com/jirimicvl/TicTacToe
+- https://jirimicvl.github.io/TicTacToe/
 
+**Random Word Guessing Game**<br/>
+- https://github.com/jirimicvl/Random-Word-Guessing-Game
+- https://jirimicvl.github.io/Random-Word-Guessing-Game/
