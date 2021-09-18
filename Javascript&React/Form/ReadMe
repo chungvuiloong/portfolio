@@ -1,1 +1,17 @@
-https://codepen.io/Jirimicvl/pen/eQjOOo
+Look at it via https://codepen.io/Jirimicvl/pen/eQjOOo
+
+Name check function
+The form checks your inputted name for numbers or special characters.
+
+
+Email check function
+The form also checks for the proper format of email.
+
+
+<b>Age check function</b>
+Checks if inputted age is in a number format.
+
+
+
+
+
