@@ -16,7 +16,7 @@ It has functional Facebook messenger build. The form meows when send in informat
 - https://jirimicvl.github.io/catWebsiteV2/
 
 **🎄🎁 Christmas Gift**<br/>
-I built this website for my girlfriend in 2018 as a Christmas Gift. It snows and has a song played in the background.
+I built this website for my girlfriend in 2018 as a Christmas Gift. It snows. It was used as a countdown to Christmas 2018 for my girlfriend. It supposed to snow and play a song in the background when it is Christmas 2018.
 - https://github.com/jirimicvl/christmasNiina2018
 - https://jirimicvl.github.io/christmasNiina2018/ 
 
