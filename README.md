@@ -2,7 +2,9 @@
 
 Hi call me, Jere!
 
-I am looking for opportunities to be a coder in Finland or Europe region. It is simply because I am currently living in Finland.
+I am looking for coding opportunities to be a coder in Finland or Europe region. It is simply because I love coding and problem solving. 
+
+Plus I am currently living in Finland.
 
 At the moment, I am studying via Xamk, Metroplia and also Laurea for any coding or IT related courses.
 
@@ -48,9 +50,12 @@ I dabble in coding with several projects and hope to work with you coders!!
 
 
 
-Please check out the following for coding projects I have done before. (Please bear in mind it is still in process).
+
 
 ## Coding projetcs
+Please check out the following, or my Github profile https://github.com/jirimicvl , for coding projects I have done before.
+
+**Please bear in mind I am still adding my previous projects.**
 
 
 ### Javascript/ React
