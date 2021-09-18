@@ -6,6 +6,8 @@ I am looking for opportunities to be a coder in Finland or Europe region. It is 
 
 At the moment, I am studying via Xamk, Metroplia and also Laurea for any coding or IT related courses.
 
+I dabble in coding with several projects and hope to work with you coders!!
+
 ## My completed studies so far
 
 ### Xamk
@@ -48,12 +50,25 @@ At the moment, I am studying via Xamk, Metroplia and also Laurea for any coding 
 
 Please check out the following for coding projects I have done before. (Please bear in mind it is still in process).
 
+## Coding projetcs
 
-## Javascript/ React
 
+### Javascript/ React
+
+**A cat website **
+It has functional Facebook messenger build. The form meows when send in information.
 - https://jirimicvl.github.io/catWebsiteV2/
+
+**Christmas Gift**
+I built this website for my girlfriend in 2018 as a Christmas Gift. It snows and has a song played in the background.
 - https://jirimicvl.github.io/christmasNiina2018/
+
+**Ëlusive button**
+There is a button on this webpage. It moves to a randowm position when the mouse pinter is close to it. Try to catch if you can!!!
 - https://jirimicvl.github.io/elusiveButton/
+
+**A form**
+It check for a proper name, age and email. It will highlight green for correct and highlight red if its wrong format.
 - https://codepen.io/Jirimicvl/pen/eQjOOo
 
 
